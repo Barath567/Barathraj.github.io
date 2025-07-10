@@ -1,14 +1,11 @@
-title: "Barathraj's Portfolio"
-description: "Robotics & AI Engineer"
+title: "Barathraj Manthiramoorthy"
 url: "https://BarathRaj.github.io"
-author:
-  name: "Barathraj Manthiramoorthy"
-  bio: "Electrical Engineer | University of Moratuwa"
-  avatar: "/assets/images/bio-photo.jpg"  # Upload your photo here
-  links:
-    - label: "Email"
-      icon: "fas fa-envelope"
-      url: "mailto:m.barathraj1999@gmail.com"
-    - label: "GitHub"
-      icon: "fab fa-github"
-      url: "https://github.com/Barath567"
+description: "Electrical Engineer | Robotics & AI Researcher"
+theme: jekyll-theme-minimal
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: default
